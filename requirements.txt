@@ -1,4 +1,5 @@
 ###### Requirements (without Version Specifiers) ######
+torch
 gym
 gym[atari]
 autorom[accept-rom-license]
@@ -6,7 +7,6 @@ jax
 jaxlib
 matplotlib
 pygame
-torch
 seaborn
 scikit-image
 imageio
